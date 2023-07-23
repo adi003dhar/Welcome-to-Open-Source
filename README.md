@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/adi003dhar">
+                    <img src="https://avatars.githubusercontent.com/u/124055257?v=4" width="100px;" alt="Aditya Dhar"/>
+                    <br />
+                    <sub><b>Aditya Dhar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
